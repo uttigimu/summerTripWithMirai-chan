@@ -3,10 +3,8 @@
 * ぐんまー
 
 ##宿
-* 水上温泉郷
-	* 水上館（http://travel.rakuten.co.jp/HOTEL/28258/CUSTOM/GW2825870606101018.html）
-	* 源泉湯の宿松乃井
-
+* [水上館](http://travel.rakuten.co.jp/HOTEL/28258/CUSTOM/GW2825870606101018.html)
+* [草津ハイランドホテル](http://highlandhotel.jp/spa.html)
 ##当日の流れ
 ###1日目
 	バスor特急
